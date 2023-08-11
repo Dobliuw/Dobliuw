@@ -1,5 +1,4 @@
-<h1> <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/> Hi everyone, I'm Dobliuw <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/></h1>
-# [](https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png)  Hello everyone, I'm Dobliuw [](https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png) 
+<h1> <img src="https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png" width=40 height=40/> Hi everyone, I'm Dobliuw <img src="https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png" width=40 height=40/></h1>
 
 <h2>Redes:</h2>
 
