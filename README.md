@@ -29,9 +29,9 @@ dobliuw = {
 	 }
   },
   "certifications": {
-		"eJPT": "2 ez, waste of money",
-		"eCPPTv2": "In preparation...",
-	    "OSCP": "Coming soon..."
+      "eJPT": "2 ez, waste of money",
+      "eCPPTv2": "In preparation...",
+      "OSCP": "Coming soon..."
   },
   "tools": ["Nmap", "Impacket suite", "Burp Suite", "Aircrack Suite",
 		  "Ghidra", "John", "other much tools...."],
