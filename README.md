@@ -1,40 +1,50 @@
 <h1> <img src="https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png" width=40 height=40/> Hi everyone, I'm Dobliuw <img src="https://github.com/Dobliuw/Dobliuw/blob/master/hacker.png" width=40 height=40/></h1>
 
-<h2>Redes:</h2>
-
-
-[![Linkedin: Owenconw](https://img.shields.io/badge/-OwenBonoris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-bonoris-80b150168/)](https://www.linkedin.com/in/owen-bonoris-80b150168/)
-[![GitHub Owenconw](https://img.shields.io/github/followers/Owenconw?label=owenconw&style=social)](https://github.com/OwenConW)
-
-### <h2>About me...</h2>
-```javascript
-const owenconw = {
-  pronouns: "he" || "him",
-  code: ["Javascript", "HTML", "CSS"],
-  tools: ["React", "Redux", "Node", "Express", "Sequelize", "SQL"],
-  hobbies: {
-      cyberSecurity: true,
-      skateboarding: true,
-      learnEnglish: true
-  },
-  interests: {
-      personalDevelopment: ["fullStackDevelopment", 
-           {reserveSubLieutenant: "fromArgentinianArmy"}],
-      dreams: ["hackerethicalJob", "fullStackDeveloperJob"],
-      toLearn: ["python", "ruby", "typeScript", "next", "english"]
-  },
-  certifications: {
-      fullStackDeveloper: {
-            soyHenry: "https://www.soyhenry.com/"
-      }
-  }
-  
-}
-
-```
 ### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width=840>
 
+### <h2>About me...</h2>
+```python
+#!/usr/bin/python
 
+dobliuw = {
+  "pronouns": "he" or "him",
+  "code": ["Python", "Bash", "JavasSript"],
+  "knowledge": {
+	 "ethical_hacking": {
+		 "Advanced_linux": True,
+		 "Windows": True,
+	     "ActiveDirectory": True,
+	     "Networks": { "Audits Wi-Fi": True },
+	     "Scripting": [{ "Python": True, "Bash": True }],
+	     "Malware_Analysis": True,
+	     "Reverse_Engineering": True,
+	     "Other": ["Pivoting", "Buffer Overflow explotations", "OWASP", "etc"]
+	 },
+	 "programming": {
+		"full_stack_developer": {
+			"Frontend": True,
+			"Backend": True,
+			"Data_Bases": True
+		}
+	 }
+  },
+  "certifications": {
+		"eJPT": "2 ez, waste of money",
+		"eCPPTv2": "In preparation...",
+	    "OSCP": "Coming soon..."
+  },
+  "tools": ["Nmap", "Impacket suite", "Burp Suite", "Aircrack Suite",
+		  "Ghidra", "John", "other much tools...."],
+  "automatic_tools": ["SQLMap", "Metasploit"],
+  "hobbies": {
+      "cyberSecurity": True,
+      "skateboarding": True,
+      "gym": True
+  }
+}
 
-</p>
+if __name__ == "__main__":
+	print(str(dobliuw))
+```
+
 
