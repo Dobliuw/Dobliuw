@@ -4,47 +4,83 @@
 
 ### <h2>About me...</h2>
 ```python
-#!/usr/bin/python
+#!/usr/bin/python3
 
 dobliuw = {
-  "pronouns": "he" or "him",
-  "code": ["Python", "Bash", "JavasSript"],
-  "knowledge": {
-	 "ethical_hacking": {
-		 "Advanced_linux": True,
-		 "Windows": True,
-	     "ActiveDirectory": True,
-	     "Networks": { "Audits Wi-Fi": True },
-	     "Scripting": [{ "Python": True, "Bash": True }],
-	     "Malware_Analysis": True,
-	     "Reverse_Engineering": True,
-	     "Other": ["Pivoting", "Buffer Overflow explotations", "OWASP", "etc"]
-	 },
-	 "programming": {
-		"full_stack_developer": {
-			"Frontend": True,
-			"Backend": True,
-			"Data_Bases": True
-		}
-	 }
-  },
-  "certifications": {
-      "eJPT": "2 ez, waste of money",
-      "eCPPTv2": "In preparation...",
-      "OSCP": "Coming soon..."
-  },
-  "tools": ["Nmap", "Impacket suite", "Burp Suite", "Aircrack Suite",
-		  "Ghidra", "John", "other much tools...."],
-  "automatic_tools": ["SQLMap", "Metasploit"],
-  "hobbies": {
-      "cyberSecurity": True,
-      "skateboarding": True,
-      "gym": True
-  }
+    "pronouns": ["he", "him"],
+    "code": [ "Python", "Bash", "JavaScript", "C", "Batch", "PowerShell", "PHP" ],
+    "knowledge": {
+        "ethical_hacking": {
+            "OS": {
+                "Linux": "Advanced",
+                "Windows": "Intermediate",
+                "ActiveDirectory": True
+            },
+            "Networks": {
+                "WiFi Audits": True,
+                "Protocol Analysis": ["TCP/IP", "UDP", "ICMP", "IPv6"],
+                "Network Intrusion Detection": True,
+            },
+            "Scripting": {
+                "Python": "Advanced",
+                "Bash": "Advanced",
+                "PowerShell": "Basic"
+            },
+            "Exploitation": {
+                "Pivoting": True,
+                "Buffer Overflow": True,
+                "ROP Chains": "In Progress",
+                "Memory Corruption": True
+            },
+            "Reverse_Engineering": {
+                "Malware Analysis": "Intermediate",
+                "Disassemblers": ["Ghidra", "IDA Free", "GDB"],
+                "Binary Analysis": True
+            },
+            "Other": ["OWASP Top 10", "MITRE ATT&CK", "Common Vulnerabilities", "Privilege Escalation"],
+        },
+        "programming": {
+            "Full_Stack_Development": {
+                "Frontend": ["HTML", "CSS", "JavaScript", "React"],
+                "Backend": ["Node.js", "Django", "Express"],
+                "Databases": ["MySQL", "PostgreSQL", "MongoDB"]
+            },
+            "Low_Level": {
+                "C": "Intermediate",
+                "Memory Management": "In Progress | Learning"
+            }
+        }
+    },
+    "certifications": {
+        "eJPT": "loss of $",
+        "OSCP": "Goal (Planned for 2025)",
+	"CCNA1": "In Progress"
+    },
+    "tools": {
+        "manual": [
+            "Nmap", "Impacket suite", "Burp Suite Pro", 
+            "Aircrack-ng suite", "Ghidra", "John the Ripper", 
+            "Wireshark", "BloodHound", "CrackMapExec"
+        ],
+        "automated": ["SQLMap", "Metasploit", "Responder", "Empire"],
+        "custom_scripts": ["Python automation scripts for enumeration", "Bash utilities", "Network scanners", "etc"]
+    },
+    "hobbies": {
+        "CyberSecurity Research": True,
+	"Electronic": True,
+	"Cut & Sewing": True,
+        "Fitness": ["Gym", "Functional Training", "Skateboarding"],
+        "Digital Art": {
+            "Graffiti": True,
+            "Tools": ["Adobe Illustrator", "Adobe Photoshop"]
+        }
+    },
+    "goals": [
+        "Advance Red Team skills",
+        "Develop custom exploits and scripts",
+        "Master OS internals (Windows/Linux)",
+        "Deepen knowledge in assembly and reverse engineering"
+    ]
 }
-
-if __name__ == "__main__":
-	print(str(dobliuw))
 ```
-
-
+### For more detailed concepts and knowledge go to my "CV" ([My Personal Web Page](https://dobliuw.com) with Articles) 
