@@ -5,6 +5,7 @@
 ### <h2>About me...</h2>
 ```python
 #!/usr/bin/python3
+import json
 
 dobliuw = {
     "pronouns": ["he", "him"],
@@ -82,5 +83,9 @@ dobliuw = {
         "Deepen knowledge in assembly and reverse engineering"
     ]
 }
+
+if __name__ == "__main__":
+	print(json.dumps(dobliuw, indent=4))
+
 ```
 ### For more detailed concepts and knowledge go to my "CV" ([My Personal Web Page](https://dobliuw.com) with Articles) 
