@@ -14,7 +14,7 @@
 
 ### 🧬 About me
 
-Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
+Hey! I'm O**w**en (**Dobliuw** - `W`) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
 
 I started in the Blue Team area as a SOC Analyst (Level 1-2) and while I continue to delve deeper into the areas of ethical hacking, exploitation, reverse engineering, low-level development, and networks and security in these areas, electronics, and anything else that interests me to nerd out on (I fell in love with studying).
 
