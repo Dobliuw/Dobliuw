@@ -1,20 +1,14 @@
-<h1 align="center">🔒 <span style="color: red; font-weight: bold">W</span>elcome. 🔓</h1>
-
-<p align="center" class="name-text">
-  <img src="https://raw.githubusercontent.com/Dobliuw/Hacking/cf7f5d7624c052229cbe7382a2c3ad7f112e506d/0.%20Images/dobliuw_facebook_banner.png" width="100%" alt="Dobliuw banner" />
-</p>
-
----
-
-<h1 align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<h1>
   <span style="color: red; font-weight: bold;">Dobliuw</span>
   — Offensive Security Professional
 </h1>
-
+<img style="width: 300px; border-radius: 45px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw">
+</div>
 
 ### 🧬 About me
 
-Hey! I'm O**w**en (**Dobliuw** - `W`) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
+Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
 
 I started in the Blue Team area as a SOC Analyst (Level 1-2) and while I continue to delve deeper into the areas of ethical hacking, exploitation, reverse engineering, low-level development, and networks and security in these areas, electronics, and anything else that interests me to nerd out on (I fell in love with studying).
 
@@ -23,6 +17,10 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - 📡 I study systems from the core to the most superficial application layer.
 - 💣 I am developing my own tools and hardware devices for RF attacks, Bluetooth, Bad USBs, content disclosure, and tutorials and/or classes on cybersecurity, programming, operating systems, and their configuration at the sysadmin level.  
 - 🧠 My interests revolve around understanding everything that others use and understanding and being the one who develops this myself.
+
+<p align="center" class="name-text">
+  <img src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_facebook_banner.png?raw=true" width="100%" alt="Dobliuw banner" />
+</p>
 
 ---
 
@@ -75,13 +73,8 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 ---
 
-```bash
 Att.
-________        ___.   .__  .__               
-\______ \   ____\_ |__ |  | |__|__ ____  _  __
- |    |  \ /  _ \| __ \|  | |  |  |  \ \/ \/ /
- |    `   (  <_> ) \_\ \  |_|  |  |  /\     / 
-/_______  /\____/|___  /____/__|____/  \/\_/  
-        \/           \/                       
-                                          at 04-08-2025.
-```
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<img style="height: 350px" src="https://raw.githubusercontent.com/Dobliuw/Dobliuw/f173e88a5ed8c6addf4e01402beef1399c69c3b3/w_og.jpeg">
+</div>
+
