@@ -1,4 +1,4 @@
-<h1 align="center">👾 ¡<span style="color: red; font-weight: bold">W</span>elcome everyone! 👾</h1>
+<h1 align="center">🔒 <span style="color: red; font-weight: bold">W</span>elcome. 🔓</h1>
 
 <p align="center" class="name-text">
   <img src="https://raw.githubusercontent.com/Dobliuw/Hacking/cf7f5d7624c052229cbe7382a2c3ad7f112e506d/0.%20Images/dobliuw_facebook_banner.png" width="100%" alt="Dobliuw banner" />
