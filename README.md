@@ -6,7 +6,7 @@
 <img style="width: 300px; border-radius: 45px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw">
 </div>
 
-### 🧬 About me
+### 🔒 About me
 
 Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
 
