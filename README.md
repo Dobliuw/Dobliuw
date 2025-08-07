@@ -3,8 +3,11 @@
   <span style="color: red; font-weight: bold;">Dobliuw</span>
   — Offensive Security Professional
 </h1>
-<img style="width: 300px; border-radius: 45px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw">
+
+<img style="width: 200px; border-radius: 45px; margin-right: 40px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight)](https://git.io/streak-stats)  
 </div>
+
+---
 
 ### 🔒 About me
 
@@ -48,6 +51,17 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 > 🔗 Look my [github repository](https://github.com/dobliuw?tab=repositories) to se more utilities in the future. (Also you've my [Full Stack Web Developer github](https://github.com/owenconw) too see some others skills and projects).
 
+<center>
+<b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
+ </center>
+
+<div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobliuw&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
+</div>
+
+ 
 ---
 
 ### 🧭 Currently learning and working on
@@ -70,6 +84,10 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 ### 💡 Manifesto
 
 > *“Don’t just learn how tools work — learn why they were built, how and why they fail, and how to build your own real world solutions.”*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dobliuw&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ---
 
