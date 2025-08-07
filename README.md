@@ -4,6 +4,8 @@
   — Offensive Security Professional
 </h1>
 
+
+
 <img style="width: 300px; border-radius: 45px; margin-right: 40px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw"> <br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight)](https://git.io/streak-stats)  
 </div>
 
@@ -51,14 +53,16 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 > 🔗 Look my [github repository](https://github.com/dobliuw?tab=repositories) to se more utilities in the future. (Also you've my [Full Stack Web Developer github](https://github.com/owenconw) too see some others skills and projects).
 
-<br>
+<center>
+<b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
+ </center>
+
 <div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobliuw&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
 </div>
 
-> (Please invite me to colaborate to projects to improve my stats :c )
  
 ---
 
@@ -69,6 +73,15 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - ⚙️ Expoits development (BoF, format string, heap) and thinking to buy Maldev for Malware development.
 - 🛰️ Learning more about hardware world, hacking hardware and the wired and wireless communications.
 - 🧵 Creating some custom home labs like my own server or my own hacking tools (Comming soon more information on my Social Networks)
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dobliuw&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
+</div>
+
+<div align="center">
+<p style="color: #06d6a0">(My main work is create articles in Markdown, so.....)</p>
+<a href="https://dobliuw.com/static_site/README.html">Click here to see my articles.</a>
+</div>
 
 ---
 
