@@ -104,6 +104,5 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 Att.
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
-<img style="height: 350px" src="https://raw.githubusercontent.com/Dobliuw/Dobliuw/f173e88a5ed8c6addf4e01402beef1399c69c3b3/w_og.jpeg">
+<img style="height: 350px" src="https://github.com/Dobliuw/Dobliuw/blob/master/w_og.jpeg?raw=true">
 </div>
-
