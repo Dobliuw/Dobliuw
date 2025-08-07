@@ -79,7 +79,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 </div>
 
 <div align="center">
-<p style="color: #06d6a0">(My main personal work is create articles for the community in Markdown, so.....)</p>
+<p style="color: #06d6a0">(My main personal goal is create articles for the community in Markdown, so.....)</p>
 <a href="https://dobliuw.com/static_site/README.html">Click here to see my articles.</a>
 </div>
 
