@@ -53,9 +53,6 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 > 🔗 Look my [github repository](https://github.com/dobliuw?tab=repositories) to se more utilities in the future. (Also you've my [Full Stack Web Developer github](https://github.com/owenconw) too see some others skills and projects).
 
-<center>
-<b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
- </center>
 
 <div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
@@ -63,6 +60,9 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobliuw&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
 </div>
 
+<div align="center">
+  <b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
+</div>
  
 ---
 
@@ -79,7 +79,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 </div>
 
 <div align="center">
-<p style="color: #06d6a0">(My main work is create articles in Markdown, so.....)</p>
+<p style="color: #06d6a0">(My main personal work is create articles for the community in Markdown, so.....)</p>
 <a href="https://dobliuw.com/static_site/README.html">Click here to see my articles.</a>
 </div>
 
