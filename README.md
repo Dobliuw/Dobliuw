@@ -13,11 +13,9 @@
 
 ### 🔒 About me
 
-Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work in the **Vulnerability Management department** at a prestigious company performing pentesting on client systems and custom development APKs, DAST and SAST analysis of these and web systems, and corresponding reporting. 
+Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work on **Red Team** for an important organization like **Offensive Security Analyst**
 
-I started in the Blue Team area as a SOC Analyst (Level 1-2) and while I continue to delve deeper into the areas of ethical hacking, exploitation, reverse engineering, low-level development, and networks and security in these areas, electronics, and anything else that interests me to nerd out on (I fell in love with studying).
-
-My driving force? The “<span style="color: red; font-weight: bold;">Why behind the why</span>”.
+My driving force? The “<span style="color: red; font-weight: bold;">Why behind the why behind the how?</span>”.
 
 - 📡 I study systems from the core to the most superficial application layer.
 - 💣 I am developing my own tools and hardware devices for RF attacks, Bluetooth, Bad USBs, content disclosure, and tutorials and/or classes on cybersecurity, programming, operating systems, and their configuration at the sysadmin level.  
