@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
 <h1>
   <span style="color: red; font-weight: bold;">Dobliuw</span>
-  — Offensive Security Professional
+  — Offensive Security Analyst
 </h1>
 
 
@@ -28,7 +28,21 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 </p>
 
 ---
+### Certifications
 
+- [Certified Professional Penetration Tester](https://certs.ine.com/8e94d54b-59dd-4b31-99cc-1020200180a3#acc.7Wt04KSg) (**eCPPT**).
+- [Junior Penetration Tester](https://certs.ine.com/5f514232-a56b-413d-b01e-da126f1b8632#acc.XT1GRb4H) (**eJPT**).
+- [Python Ofensivo](https://www.dobliuw.com/assets/certs/python_ofensivo.pdf) (Hack4u).
+- [CCNA1](https://www.linkedin.com/in/dev-owen/overlay/Certifications/1016925869/treasury?profileId=ACoAACfjZYsBbimeMwbhwNQ7vfq3miLiClJ9BBo) (CISCO Course).
+- [Network Analysis](https://www.dobliuw.com/assets/certs/network_analysis_cert.pdf) (Security Blue Team).
+- [Hacking introduction](https://www.dobliuw.com/assets/certs/hacking_introduction.pdf) (Hack4u).
+- [API Penetration Testing](https://www.credly.com/badges/ac6e6c45-c780-4a28-8702-902be2bc7433/linked_in_profile) (APIsec University).
+- [API Security Fundamentals](https://www.credly.com/badges/607faab5-4379-4749-990b-3ad819daf976/linked_in_profile) (APIsec University).
+- [Full Stack Web Developer](https://certificates.soyhenry.com/cert?id=32892f5c-3b00-4fa3-acb8-c66bfb2c40be) (Henry).
+- [Sumo Logic Certified](https://verify.skilljar.com/c/ze2rah4k9vvy) (Sumo Logic).
+- [Linux](https://www.dobliuw.com/assets/certs/linux_basics.pdf) (Hack4u).
+
+---
 ### 🎯 Professional work and interests
 
 - 🔐 Ethical Hacking & Red Team
