@@ -45,7 +45,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 ---
 ### 🎯 Professional work and interests
 
-- 🔐 Ethical Hacking & Red Team
+- 🔐 Ethical Hacking & Red Team (AI Red Teaming, Reversing, Hardware Hacking, traditional pentesting - API, Mobile, Web, OS, WiFi & protocols) and more.
 - 💥 Vulnerabilities and Binaries explotation(CVE & PoC crafting)
 - 📶 Wireless Hacking (Bluetooth, SDR, NFC, RF)
 - 💻 OS Linux and Windows internals
