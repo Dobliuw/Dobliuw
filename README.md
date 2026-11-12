@@ -52,17 +52,6 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - 🌐 Networks, protocols and packet analysis
 - 🧱 System security & Blue Team (SOC Analyst with knowledge in EDRs, SIEMs and Reporting).
 - 🔌 Electronics development oriented to Home Labs, custom servers and sysadmin works.
-
-
-<div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobliuw&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
-</div>
-
-<div align="center">
-  <b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
-</div>
  
 ---
 
@@ -73,9 +62,6 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - ⚙️ Expoits development (BoF, format string, heap).
 - 🛰️ Learning more about hardware world, hacking hardware and the wired and wireless communications.
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dobliuw&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
-</div>
 
 <div align="center">
 <p style="color: #06d6a0">(My main personal goal is create articles for the community in Markdown, so.....)</p>
@@ -93,11 +79,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 ### 💡 Manifesto
 
-> *“Don’t just learn how tools work — learn why they were built, how and why they fail, and how to build your own real world solutions.”*
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dobliuw&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+> *“Don't delegate the brain process to the AI and really learn how tools and world work — learn why they were built, how and why they fail, and how to build your own real world solutions.”*
 
 ---
 
