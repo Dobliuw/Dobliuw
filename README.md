@@ -53,18 +53,6 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - 🧱 System security & Blue Team (SOC Analyst with knowledge in EDRs, SIEMs and Reporting).
 - 🔌 Electronics development oriented to Home Labs, custom servers and sysadmin works.
 
----
-
-### 🔬 Some projects
-
-| Project | Description | Technology |
-|---------|-------------|------------|
-| [Dobliuw Web Site](https://dobliuw.com) | My custom WebSite oriented to be a *Cyber Wiki* and a *Portfolio* to show to the world who I am... who is Dobliuw. | Frontend: React, Backend: FastAPI and content of wiki: Too much. |
-| [P4sw0rds G3ner4t0r](https://github.com/Dobliuw/p4sw0rds_g3ner4t0r) | Script to create custom passwords based in inputs like words to use, length and character alteration techniques. | Python |
-| [Some Hacking tools](https://github.com/Dobliuw/MyHackingTools)| Some hackign tools used to perform attacks, scans and more. | Python, Bash and PowerShell |
-
-> 🔗 Look my [github repository](https://github.com/dobliuw?tab=repositories) to se more utilities in the future. (Also you've my [Full Stack Web Developer github](https://github.com/owenconw) too see some others skills and projects).
-
 
 <div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
@@ -81,10 +69,9 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 ### 🧭 Currently learning and working on
 
 - 💼 Cybersecurity company.
-- 🧠 Saving $ to certificate **eJPTv3**, **eCPPTv3**, **eWPTXv3** and **OSCP** (And ofcourse more).
-- ⚙️ Expoits development (BoF, format string, heap) and thinking to buy Maldev for Malware development.
+- 🧠 Saving $ to certificate **Maldev Academy - Malware development + Ransomwares**, **OSCP**, **OSWE** (And ofcourse more).
+- ⚙️ Expoits development (BoF, format string, heap).
 - 🛰️ Learning more about hardware world, hacking hardware and the wired and wireless communications.
-- 🧵 Creating some custom home labs like my own server or my own hacking tools (Comming soon more information on my Social Networks)
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dobliuw&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
