@@ -6,7 +6,7 @@
 
 
 
-<img style="width: 300px; border-radius: 45px; margin-right: 40px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw"> </br><img src="https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight" alt="GitHub Streak"/>
+<img style="width: 300px; border-radius: 45px; margin-right: 40px" src="./dobliuw_animated.png?raw=true" alt="Dobliuw"> </br><img src="https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
