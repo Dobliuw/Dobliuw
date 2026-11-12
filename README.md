@@ -63,7 +63,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - ⚙️ And... my main interest aiming to 2030.... 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
-<img style="width: 350px; border-radius: 45px; margin-right: 40px" src="./hardware_hacking_logo.svg" alt="H.H"> </br>
+<img style="width: 90%; border-radius: 45px; margin-right: 40px" src="./hardware_hacking_logo.svg" alt="H.H"> </br>
 </div>
 <br/>
 
