@@ -6,7 +6,7 @@
 
 
 
-<img style="width: 300px; border-radius: 45px; margin-right: 40px" src="https://github.com/Dobliuw/Dobliuw/blob/master/dobliuw_animated.png?raw=true" alt="Dobliuw"> </br><img src="https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight" alt="GitHub Streak"/>
+<img style="width: 350px; border-radius: 45px; margin-right: 40px" src="./dobliuw_animated.png?raw=true" alt="Dobliuw"> </br><img src="https://github-readme-streak-stats.herokuapp.com/?user=dobliuw&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -52,43 +52,25 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - 🌐 Networks, protocols and packet analysis
 - 🧱 System security & Blue Team (SOC Analyst with knowledge in EDRs, SIEMs and Reporting).
 - 🔌 Electronics development oriented to Home Labs, custom servers and sysadmin works.
-
----
-
-### 🔬 Some projects
-
-| Project | Description | Technology |
-|---------|-------------|------------|
-| [Dobliuw Web Site](https://dobliuw.com) | My custom WebSite oriented to be a *Cyber Wiki* and a *Portfolio* to show to the world who I am... who is Dobliuw. | Frontend: React, Backend: FastAPI and content of wiki: Too much. |
-| [P4sw0rds G3ner4t0r](https://github.com/Dobliuw/p4sw0rds_g3ner4t0r) | Script to create custom passwords based in inputs like words to use, length and character alteration techniques. | Python |
-| [Some Hacking tools](https://github.com/Dobliuw/MyHackingTools)| Some hackign tools used to perform attacks, scans and more. | Python, Bash and PowerShell |
-
-> 🔗 Look my [github repository](https://github.com/dobliuw?tab=repositories) to se more utilities in the future. (Also you've my [Full Stack Web Developer github](https://github.com/owenconw) too see some others skills and projects).
-
-
-<div align="center" style="display: flex; margin-top:20px;justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobliuw&show_icons=true&theme=tokyonight&count_private=true" alt="dobliuw's GitHub Stats" style="vertical-align: top;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobliuw&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
-</div>
-
-<div align="center">
-  <b style="color: #06d6a0">(Please invite me to colaborate to proyects to improve my stats :c )</b>
-</div>
  
 ---
 
 ### 🧭 Currently learning and working on
 
-- 💼 Cybersecurity company.
-- 🧠 Saving $ to certificate **eJPTv3**, **eCPPTv3**, **eWPTXv3** and **OSCP** (And ofcourse more).
-- ⚙️ Expoits development (BoF, format string, heap) and thinking to buy Maldev for Malware development.
-- 🛰️ Learning more about hardware world, hacking hardware and the wired and wireless communications.
-- 🧵 Creating some custom home labs like my own server or my own hacking tools (Comming soon more information on my Social Networks)
+- 🏅HTB Certified Offensive AI Expert IN PROGRESS
+- 🎓 Electronics Engineering on UTN.
+- 🧠 Saving $ to certificate **Maldev Academy - Malware development + Ransomwares**, **OSCP**, **OSWE** (And ofcourse more).
+- ⚙️ And... my main interest aiming to 2030.... 
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dobliuw&theme=tokyonight" alt="Top Languages" style="margin-top: 14px;" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<h1>
+  <span style="; font-weight: bold;">Hardware Hacking</span>
+</h1>
+
+<img style="width: 350px; border-radius: 45px; margin-right: 40px" src="./hardware_hacking_logo.svg" alt="H.H"> </br>
 </div>
+
+Ah, I almost forgot.... 
 
 <div align="center">
 <p style="color: #06d6a0">(My main personal goal is create articles for the community in Markdown, so.....)</p>
@@ -106,11 +88,7 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 ### 💡 Manifesto
 
-> *“Don’t just learn how tools work — learn why they were built, how and why they fail, and how to build your own real world solutions.”*
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dobliuw&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+> *“Don't delegate the brain process to the AI and really learn how tools and world work — learn why they were built, how and why they fail, and how to build your own real world solutions.”*
 
 ---
 
