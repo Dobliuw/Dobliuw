@@ -63,12 +63,10 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 - ⚙️ And... my main interest aiming to 2030.... 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
-<h1>
-  <span style="; font-weight: bold;">Hardware Hacking</span>
-</h1>
-
 <img style="width: 350px; border-radius: 45px; margin-right: 40px" src="./hardware_hacking_logo.svg" alt="H.H"> </br>
 </div>
+
+I'm currently participating in study groups and applying what I know—while learning new things—in hardware hacking projects, where I'm trying to root devices, dump firmware and AES keys, and exploit UART, SPI, and JTAG protocols, among others, on the PCBs of various devices, such as security cameras, routers, set-top boxes, digital locks with NFC and codes, and much more!
 
 Ah, I almost forgot.... 
 
