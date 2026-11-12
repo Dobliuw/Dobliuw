@@ -16,7 +16,9 @@
 Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work on **Red Team** for an important organization like **Offensive Security Analyst**
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+  <p></p>
   <span style="font-weight: bold;">🏆 Car Hacking CTF Winner - Eko Party 2026</span><br/>
+  <p></p>
 </div>
 
 My driving force? The “<span style="color: red; font-weight: bold;">Why behind the why behind the how?</span>”.
