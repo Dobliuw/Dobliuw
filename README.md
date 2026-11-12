@@ -16,11 +16,11 @@
 Hey! I'm O<span style="color: red; font-weight: bold;">w</span>en (<span style="color: red; font-weight: bold;">Dobliuw</span>) passionate about technology and a self-taught researcher focused on offensive cybersecurity. I currently work on **Red Team** for an important organization like **Offensive Security Analyst**
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
-  <span style="font-weight: bold;">🏆 Car Hacking CTF Winner - Eko Party 2026</span>
+  <span style="font-weight: bold;">🏆 Car Hacking CTF Winner - Eko Party 2026</span><br/>
 </div>
 
 My driving force? The “<span style="color: red; font-weight: bold;">Why behind the why behind the how?</span>”.
-
+<br/>
 - 📡 I study systems from the core to the most superficial application layer.
 - 💣 I am developing my own tools and hardware devices for RF attacks, Bluetooth, Bad USBs, content disclosure, and tutorials and/or classes on cybersecurity, programming, operating systems, and their configuration at the sysadmin level.  
 - 🧠 My interests revolve around understanding everything that others use and understanding and being the one who develops this myself.
