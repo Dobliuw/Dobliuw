@@ -57,11 +57,20 @@ My driving force? The “<span style="color: red; font-weight: bold;">Why behind
 
 ### 🧭 Currently learning and working on
 
-- 💼 Cybersecurity company.
+- 🏅HTB Certified Offensive AI Expert IN PROGRESS
+- 🎓 Electronics Engineering on UTN.
 - 🧠 Saving $ to certificate **Maldev Academy - Malware development + Ransomwares**, **OSCP**, **OSWE** (And ofcourse more).
-- ⚙️ Expoits development (BoF, format string, heap).
-- 🛰️ Learning more about hardware world, hacking hardware and the wired and wireless communications.
+- ⚙️ And... my main interest aiming to 2030.... 
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<h1>
+  <span style="; font-weight: bold;">Hardware Hacking</span>
+</h1>
+
+<img style="width: 350px; border-radius: 45px; margin-right: 40px" src="./hardware_hacking_logo.svg" alt="H.H"> </br>
+</div>
+
+Ah, I almost forgot.... 
 
 <div align="center">
 <p style="color: #06d6a0">(My main personal goal is create articles for the community in Markdown, so.....)</p>
